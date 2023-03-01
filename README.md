@@ -7,6 +7,8 @@ sera salvo um arquivo .txt na mesma pasta que está o programa, o texto é salvo
 linha diferente com a data de criação.
 Para descriptografar copie e cole o texto do arquivo que foi salvo na mesma pasta
 do programa.
+Não use isso para  salvar informações importante pois não totalmente seguro e pode ser descriptografado
+facilmente por alguém que saiba o básico do asssunto.
 
 ![https://github.com/guedes2142/Max-encryp](https://github.com/guedes2142/Max-encryp/blob/main/Screenshot_1.png)
 <h4 align="center"> https://github.com/guedes2142/Max-encryp </h4>
