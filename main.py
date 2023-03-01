@@ -1,3 +1,12 @@
+
+#Rafael Guedes 
+#Github: https://github.com/guedes2142
+#---------------------------------------------------------------------
+#! git remote add origin https://github.com/guedes2142/Max-encryp.git
+#! git branch -M main
+#! git push -u origin main
+#---------------------------------------------------------------------
+
 import tkinter
 from tkinter import *
 from tkinter import messagebox
@@ -9,7 +18,7 @@ tk = Tk()
 tk.geometry('300x530')
 tk.config(bg='black')
 tk.resizable(width=False, height=False)
-tk.title('Max codificador')
+tk.title('Max encryp    ')
 tk.iconphoto(False, PhotoImage(file='icone.png'))
 
 data = datetime.datetime.now()
@@ -35,8 +44,6 @@ def donothing():
     tk.config(menu=menubar)
     
 donothing()
-
-
 
 # --------------------------------------------------------------------------------------
 def encoder():
@@ -66,7 +73,6 @@ def encoder():
         'o seu código não perca o arquivo salve uma cópia do mesmo em pendrive para mais segurança')
         labelTree['text'] = urlSafeEncodedStr
         break
-
 
 def decoder():
 
@@ -106,7 +112,7 @@ labelOne.grid(row=0, column=0, sticky=NSEW)
 textOne = Text(frameOne, width=10, height=10, bg='white')
 textOne.grid(row=1, column=0, sticky=NSEW)
 bntOne = Button(frameOne, width=1, height=1, command=encoder,
-                text="Click aqui para codigicar", bg='purple', fg='white', font=('Verdana 10'))
+                text="Click aqui para criptografar", bg='purple', fg='white', font=('Verdana 10'))
 bntOne.grid(row=2, column=0, sticky=NSEW)
 # --------------------------------------------------------------------------------------
 
@@ -116,13 +122,11 @@ labelTwo.grid(row=0, column=0, sticky=NSEW)
 textTwo = Text(frameTwo, width=10, height=10, bg='white')
 textTwo.grid(row=1, column=0, sticky=NSEW)
 bntTwo = Button(frameTwo, command=decoder, width=1, height=1,
-                text="Click aqui para descodificar", bg='purple', fg='white', font=('Verdana 10'))
+                text="Click aqui para descriptografar", bg='purple', fg='white', font=('Verdana 10'))
 bntTwo.grid(row=2, column=0, sticky=NSEW)
 # --------------------------------------------------------------------------------------
 labelTree = Label(tk, width=30, height=1, text='', font=(
     'Verdana 10 italic'), background='black', fg='white')
 labelTree.grid(row=3, column=0, sticky=NSEW)
-
-
 
 tk.mainloop()
