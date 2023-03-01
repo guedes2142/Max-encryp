@@ -5,7 +5,7 @@
 Escreva o texto a ser criptografado na janela e clique no botão criptografar
 sera salvo um arquivo .txt na mesma pasta que está o programa, o texto é salvo em
 linha diferente com a data de criação.
-Para descriptografar copie e cole o arquivo, o texto quer foi salvo na mesma pasta
+Para descriptografar copie e cole o texto do arquivo que foi salvo na mesma pasta
 do programa.
 
 ![https://github.com/guedes2142/Max-encryp](https://github.com/guedes2142/Max-encryp/blob/main/Screenshot_1.png)
