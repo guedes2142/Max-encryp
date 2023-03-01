@@ -8,7 +8,7 @@ linha diferente com a data de criação.
 Para descriptografar copie e cole o texto do arquivo com o comando  que foi salvo na mesma pasta
 do programa com o comanda (ctrl + v).
 ### [+] Warning:
-Não use este programa para  alvar informações importante pois não totalmente seguro e pode ser descriptografado
+Não use este programa para  salvar informações importante pois não totalmente seguro e pode ser descriptografado
 facilmente por alguém que saiba o básico do asssunto. faça copia de segurança em pendrive e não compartilhe com
 niguém seu codigo.
 Em breve terei um sistema seguro..aguarde!
