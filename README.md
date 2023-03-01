@@ -8,9 +8,9 @@ linha diferente com a data de criação.
 Para descriptografar copie e cole o texto do arquivo com o comando  que foi salvo na mesma pasta
 do programa com o comanda (ctrl + v).
 ### [+] Warning:
-Não use este programa para  salvar informações importante pois não totalmente seguro e pode ser descriptografado
-facilmente por alguém que saiba o básico do asssunto. faça copia de segurança em pendrive e não compartilhe com
-niguém seu codigo.
+Não use este programa para  salvar informações importante pois não é totalmente seguro e pode ser descriptografado
+facilmente por alguém que saiba o básico do asssunto este app foi feito a fim de estudo e conhecimentp se for usar. faça copia de segurança em pendrive e não compartilhe com
+niguém seu codigo. use apenas para troca de mensagens ou simples mente esconder um texto em seu pc.
 Em breve terei um sistema seguro..aguarde!
 
 ![https://github.com/guedes2142/Max-encryp](https://github.com/guedes2142/Max-encryp/blob/main/Screenshot_1.png)
