@@ -5,8 +5,8 @@
 Escreva o texto a ser criptografado na janela e clique no botão criptografar
 sera salvo um arquivo .txt na mesma pasta que está o programa, o texto é salvo em
 linha diferente com a data de criação.
-Para descriptografar copie e cole o texto do arquivo com o comando  que foi salvo na mesma pasta
-do programa com o comanda (ctrl + v).
+Para descriptografar copie e cole o texto do arquivo que foi salvo na mesma pasta
+do programa presianando (ctrl + v).
 ### [+] Warning:
 Não use este programa para salvar informações importantes, pois não é totalmente seguro e pode ser descriptografado facilmente por alguém que saiba o básico do assunto, este aplicativo foi feito a fim de estudo e conhecimento se for usar. Faça cópia de segurança em pendrive e não compartilhe com ninguém seu código. Use apenas para troca de mensagens ou simplesmente ofuscar um texto em seu PC. Em breve terei um sistema seguro de criptografia..aguarde!
 
