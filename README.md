@@ -1,5 +1,8 @@
 <h2 align="center"><u>Max-encryp</u></h2>
 
+![https://github.com/guedes2142/Max-encryp](https://github.com/guedes2142/Max-encryp/blob/main/Screenshot_1.png)
+<h4 align="center"> https://github.com/guedes2142/Max-encryp </h4>
+
 ### [+] Help:
 
 Escreva o texto a ser criptografado na janela e clique no botão criptografar
@@ -15,8 +18,6 @@ Não use este programa para salvar informações importantes, pois não é total
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Do not use this program to save important information, as it is not completely secure and can be easily decrypted by someone who knows the basics of the subject, this application was made for the purpose of study and knowledge if you are going to use it. Make a backup copy on a pendrive and do not share your code with anyone. Use it only for messaging or simply obfuscating a text on your PC. Soon I will have a secure encryption system..wait!
 
-![https://github.com/guedes2142/Max-encryp](https://github.com/guedes2142/Max-encryp/blob/main/Screenshot_1.png)
-<h4 align="center"> https://github.com/guedes2142/Max-encryp </h4>
 
 <p align="center">
 
