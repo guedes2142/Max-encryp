@@ -1,7 +1,6 @@
 <h2 align="center"><u>Max-encryp</u></h2>
 
 ![https://github.com/guedes2142/Max-encryp](https://github.com/guedes2142/Max-encryp/blob/main/Screenshot_1.png)
-<h4 align="center"> https://github.com/guedes2142/Max-encryp </h4>
 
 ### [+] Help:
 
